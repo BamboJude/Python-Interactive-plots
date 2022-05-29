@@ -29,5 +29,10 @@ with conda:
 
 <code>conda install -c conda-forge ipywidgets</code>
 
+For more information visit:
+
+https://github.com/jupyter-widgets/ipywidgets
+
+
 
 
