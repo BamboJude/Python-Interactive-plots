@@ -16,6 +16,8 @@ This interactive widgets include:
 >- text boxes
 >- toggle buttons
 >- display areas
+>- DatePicker
+>- TimePicker
 
 ## How to Install ipywidgets
 
