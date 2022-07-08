@@ -38,6 +38,16 @@ https://github.com/jupyter-widgets/ipywidgets
 ## 2. Panel
 Panel is an open source Python library that can be used in creating interactive web apps and dashboards. It makes use of widgets to plots, images, tables and text.
 Panel support nearly all plotting libraries.
+
+
+## How to install Panel
+It is reconmmended to installl panel using conda command
+
+<code>conda install panel</code>
+
+You can also use PyPI:
+
+<code> pip install panel </panel>
 More about panel here: https://panel.holoviz.org
 
 
