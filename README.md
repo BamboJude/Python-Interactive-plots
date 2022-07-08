@@ -1,5 +1,5 @@
 # Python-Interactive-plots
-## Examples of python interactive plots using ipywidgets and plotly.
+## Ipywidgets
 **ipywidgets** are interactive widgets for jupyter-notebooks and Ipython Kenel.
 
 Users can control or visualize changes in their data.
@@ -35,6 +35,7 @@ with conda:
 For more information visit:
 
 https://github.com/jupyter-widgets/ipywidgets
+## 2. Panel
 
 
 
