@@ -1,5 +1,5 @@
 # Python-Interactive-plots
-## Ipywidgets
+## 1. Ipywidgets
 **ipywidgets** are interactive widgets for jupyter-notebooks and Ipython Kenel.
 
 Users can control or visualize changes in their data.
@@ -36,6 +36,10 @@ For more information visit:
 
 https://github.com/jupyter-widgets/ipywidgets
 ## 2. Panel
+Panel is an open source Python library that can be used in creating interactive web apps and dashboards. It makes use of widgets to plots, images, tables and text.
+Panel support nearly all plotting libraries.
+More about panel here: https://panel.holoviz.org
+
 
 
 
