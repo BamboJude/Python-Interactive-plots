@@ -48,6 +48,7 @@ It is reconmmended to installl panel using conda command
 You can also use PyPI:
 
 <code> pip install panel </panel>
+
 More about panel here: https://panel.holoviz.org
 
 
