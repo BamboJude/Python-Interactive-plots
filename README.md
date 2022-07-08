@@ -43,7 +43,7 @@ Panel support nearly all plotting libraries.
 ## How to install Panel
 It is reconmmended to installl panel using conda command
 
-<code>conda install panel</code>
+<code>conda install -c pyviz panel</code>
 
 You can also use PyPI:
 
