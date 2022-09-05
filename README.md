@@ -35,21 +35,16 @@ with conda:
 For more information visit:
 
 https://github.com/jupyter-widgets/ipywidgets
-## 2. Panel
-Panel is an open source Python library that can be used in creating interactive web apps and dashboards. It makes use of widgets to plots, images, tables and text.
-Panel support nearly all plotting libraries.
+## 2. Plotly
+Plotly has an open source graphing library for python. This library enables us to plot interactive graphs such as line plots, scatter plots, area charts, bar charts, error bars, box plots, histograms, heatmaps, subplots, multiple-axes, polar chart, and bubble charts.
 
 
-## How to install Panel
-It is reconmmended to installl panel using conda command
 
-<code>conda install -c pyviz panel</code>
+## How to install Plotly
 
-You can also use PyPI:
+<code> pip install plotly ==5.10.0 </panel>
 
-<code> pip install panel </panel>
-
-More about panel here: https://panel.holoviz.org
+More about panel here: https://github.com/plotly/plotly.py
 
 
 
