@@ -44,7 +44,7 @@ Plotly has an open source graphing library for python. This library enables us t
 
 <code> pip install plotly ==5.10.0 </panel>
 
-More about panel here: https://github.com/plotly/plotly.py
+More about plotly here: https://github.com/plotly/plotly.py
 
 
 
